@@ -55,13 +55,13 @@ Human-Computer Interaction (HCI) focuses on placing users at the center of techn
 
 ## Project Images
 
-
 ![Interface Design](images/img1.png "Interface Design")
 
 ![Interface Design](images/img2.png "Interface Design")
 
 ![Interface Design](images/img3.png "Interface Design")
 
+- **Project Link:** https://www.figma.com/design/pQUtvxHxVDzK79foxxOqlt/ECS164---Final?node-id=69-2506&t=nJ9jPTonayZBRJu0-0
 ---
 
 **ECS 164 | Winter 2025 | UC Davis**
