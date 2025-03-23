@@ -1,10 +1,9 @@
 # Human-Computer Interaction (HCI)
 
- Human-Computer Interaction at UC Davis. This course explores fundamental concepts, methodologies, and practices essential for designing user-centered and effective human-computer interactions.
+ Human-Computer Interaction at UC Davis. This course explores concepts, methodologies, and practices essential for designing user-centered and effective human-computer interactions.
 
 ## Instructor
-- **Professor Hao-Chuan Wang**
-- **Email:** hciwang@ucdavis.edu
+- **Professor Dr.Hao-Chuan Wang**
 
 ## Course Overview
 Human-Computer Interaction (HCI) focuses on placing users at the center of technology design, ensuring interfaces are not just functional but intuitive, enjoyable, and efficient to use.
@@ -61,9 +60,18 @@ Human-Computer Interaction (HCI) focuses on placing users at the center of techn
 
 ![Interface Design](images/img3.png "Interface Design")
 
+![Interface Design](images/img4.png "Interface Design")
+
 - **Project Link:** https://www.figma.com/design/pQUtvxHxVDzK79foxxOqlt/ECS164---Final?node-id=69-2506&t=nJ9jPTonayZBRJu0-0
+
+
+
+## Paper Images
+
+![Paper Analysis](images/paper1.png "Paper Analysis")
+![Paper Analysis](images/paper2.png "Paper Analysis")
 ---
 
-**ECS 164 | Winter 2025 | UC Davis**
+**Figma Design | UC Davis**
 
 
